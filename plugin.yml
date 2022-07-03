@@ -1,0 +1,6 @@
+name: ChunkMigrate118
+main: net.simpvp.ChunkMigrate118.ChunkMigrate118
+version: 1
+author: simpvp.net
+api-version: 1.18
+description: Migrate world to 1.18
